@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+new repo
+have great day
+good morning
